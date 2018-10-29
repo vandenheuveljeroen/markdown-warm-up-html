@@ -1,1 +1,11 @@
-
+body {
+  background-color: #6666CCFF;
+  color: white;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+a:hover{
+    color: black;
+  }
