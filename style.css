@@ -3,9 +3,9 @@ body {
   color: white;
 }
 h1 {
-  color: white;
+  color: #FF;
   text-align: center;
 }
 a:hover{
-    color: black;
+    color: #303e3f;
   }
