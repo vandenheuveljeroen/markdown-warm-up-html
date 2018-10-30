@@ -1,5 +1,5 @@
 body {
-  background-color: #6666CCFF;
+  background-color: #66C;
   color: #fff;
 }
 h1 {
@@ -7,5 +7,16 @@ h1 {
   text-align: center;
 }
 a:hover{
-    color: #303e3f;
+    color: #794044;
   }
+#demobox {
+   background-color: #fff ;
+   margin-right: 1130px ;
+ }
+ img {
+     border-radius: 50%;
+     margin-right: 500;
+     margin-left: 500;
+
+
+ }
